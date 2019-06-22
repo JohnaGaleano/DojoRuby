@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  fecha_publicacion: 2019-06-21
+  nro_canciones: 1
+  artistum: one
+
+two:
+  nombre: MyString
+  fecha_publicacion: 2019-06-21
+  nro_canciones: 1
+  artistum: two
